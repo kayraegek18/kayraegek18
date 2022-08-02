@@ -13,9 +13,9 @@
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/453189822438178816" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://sptfy.com/eienwq" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCxHH76aFNIgcAI7BOtmAqog" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://github.com/eienwq" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://sptfy.com/kayega" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/s" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/kayraegek18" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
