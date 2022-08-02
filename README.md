@@ -12,7 +12,7 @@
 
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/323095557470158855" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/453189822438178816" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://sptfy.com/eienwq" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCxHH76aFNIgcAI7BOtmAqog" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/eienwq" target"blank_"><img src="https://img.shields.io/badge/Eienwq%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -40,7 +40,7 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-   <a href="https://discord.com/users/323095557470158855" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/323095557470158855?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   <a href="https://discord.com/users/453189822438178816" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/453189822438178816?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
