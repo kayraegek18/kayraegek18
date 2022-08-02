@@ -1,16 +1,4 @@
 <div align="center">
-<br>
-<br>
-<br>
-<br>
-<br>
-<a href="https://github.com/eienwq/" target"blank_"><img src="https://cdn.discordapp.com/attachments/936702847377080442/1002985016961282139/unknown.png"></a>
-<br>
-<br>
-<br>
-</div>
-
-<div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/453189822438178816" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://sptfy.com/kayega" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
