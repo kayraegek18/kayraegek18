@@ -41,6 +41,6 @@
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/453189822438178816" target="_blank">
-      <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/453189822438178816)](https://discord.com/users/453189822438178816)">
+      <img src="https://lanyard.cnrad.dev/api/453189822438178816">
    </a>
 </div>
