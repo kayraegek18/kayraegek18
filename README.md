@@ -26,7 +26,7 @@
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayraegek18&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12&hide=php,ejs,hack">
   <a href="https://github.com/kayraegek18/github-readme-stats"><img  width="64%" alt="kayraegek18's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kayraegek18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br><br>
 </p><br><br><br>
- <img src="https://github-profile-trophy.vercel.app/?username=hasan-kilici&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+ <img src="https://github-profile-trophy.vercel.app/?username=kayraegek18&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
 
 <div align="center">
