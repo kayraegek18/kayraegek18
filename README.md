@@ -1,6 +1,6 @@
 <img width="100%" src="github-header-image.png">
 <div class="float:left;width:600px">
-<a href="https://discordapp.com/users/1182358743392993300"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discordapp.com/users/453189822438178816"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/_kayraegek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=kayraegek18&color=red" />
 </div>
@@ -17,7 +17,7 @@
 <li><b>🌱 I’m currently learning:</b> C++</li>
 <li><b>👨‍💻 All of my projects are available at:</b> https://kayraegek18.github.io</li>
 <li><b>😄 Fun fact:</b> I love Coding(💻), Traveling(🌍).</li>
-<li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/1097304620885356565">Here.</a></li>
+<li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/453189822438178816">Here.</a></li>
 <br><br><br><br><br><br>
 <h2>Stats</h2>
 <div align="center">
