@@ -15,8 +15,7 @@
 <img width="20%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1024px-Deno.svg.png" />
 <li><b>🔭 I’m currently working on:</b> Discord clone</li>
 <li><b>🌱 I’m currently learning:</b> C++</li>
-<li><b>👨‍💻 All of my projects are available at:</b> https://kayraegek18.github.io</li>
-<li><b>😄 Fun fact:</b> I love Coding(💻), Traveling(🌍).</li>
+<li><b>😄 Fun fact:</b> I love Coding(💻).</li>
 <li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/453189822438178816">Here.</a></li>
 <br><br><br><br><br><br>
 <h2>Stats</h2>
